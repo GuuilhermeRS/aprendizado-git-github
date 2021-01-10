@@ -1,0 +1,9 @@
+O **GitHub** é um serviço para hospedarmos projetos Git.
+Em nosso terminal podemos digitar o seguinte comando para linkar o repositório do GitHub com o git:
+  - **git remote add origin 'link HTTPS do repositório'
+
+Podemos utilizar a seguinte linha de comando para subirmos nosso repositório ao GitHub:
+  - **git push origin master**
+
+Caso precisamos baixar as atualizações do repositório, podemos utilizar a seguinte linha de código:
+  -**git pull origin master**
