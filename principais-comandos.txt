@@ -1,0 +1,8 @@
+Abaixo segue uma lista com os principais comandos:
+  - **git init**: inicia o git dentro do repositório.
+  - **git status**: mostra o status dos arquivos dentro do repostirório.
+  - **git add 'nomeDoArquivo'**: adiciona o arquivo na área intermediária, para que posteriormente possamos commita-lo.
+  - **git commit -m 'mensagem'**: adiciona o arquivo da área intermediária para a final, informando uma mensagem com o que foi realizado naquele arquivo.
+  - **git log**: mostra os commits que foram realizados.
+  - **git diff**: mostra as diferenças dos arquivos entre a workdir e a head(ultimo commit).
+  - **git reset HEAD 'arquivo'**: reseta o arquivo para a versão que estava no HEAD.
