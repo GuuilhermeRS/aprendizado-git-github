@@ -1,0 +1,9 @@
+Para instalarmos o Git, podemos estar acessando o seguinte site: https://git-scm.com/downloads
+Nele estaremos selecionando nosso Sistema Operacional, e realizando o download. Caso você utilize Linux, ele mostrara a sequencia de comandos que devem ser digitados no terminal, para  realizar a instalação do Git.
+Após realizarmos a instalação, sera´
+
+  Configurando o Git:
+Após a instalação do git, precisamos configurar nosso User Name e nosso Email, para que ele mostre quando realizarmos alguma alteração em algum projeto. Segue abaixo como realizaremos a configuração:
+  -git config --global user.name 'aqui estaremos informando nosso nome'
+  -git config --global user.email 'aqui informamos nosso email'
+Através do comando 'git config --list' podemos confirmar como ficou a configuração de nosso projeto.
